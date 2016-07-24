@@ -1,6 +1,6 @@
 # Debian Docker Image - Extends Official Debian
 
-Repository: https://hub.docker.com/r/freitasul/debian
+Repository: https://hub.docker.com/r/frekele/debian
 
 #### Branches:
 | Branch           | From             | Usage        |
