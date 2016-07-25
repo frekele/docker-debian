@@ -1,4 +1,4 @@
-# Debian(s6-overlay) Docker - Extends Official Debian
+# Debian (s6-overlay) Docker - Extends Official Debian
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/frekele/debian.svg)](https://hub.docker.com/r/frekele/debian/)
 [![Docker Stars](https://img.shields.io/docker/stars/frekele/debian.svg)](https://hub.docker.com/r/frekele/debian/)
