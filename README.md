@@ -1,12 +1,19 @@
 # Debian(s6-overlay) Docker - Extends Official Debian
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/frekele/debian.svg)](https://hub.docker.com/r/frekele/debian/)
+[![Docker Stars](https://img.shields.io/docker/stars/frekele/debian.svg)](https://hub.docker.com/r/frekele/debian/)
+[![GitHub issues](https://img.shields.io/github/issues/frekele/docker-debian.svg)](https://github.com/frekele/docker-debian/issues)
+[![GitHub forks](https://img.shields.io/github/forks/frekele/docker-debian.svg)](https://github.com/frekele/docker-debian/network)
+[![GitHub stars](https://img.shields.io/github/stars/frekele/docker-debian.svg)](https://github.com/frekele/docker-debian/stargazers)
+
 Repository: https://hub.docker.com/r/frekele/debian
 
 #### Branches:
-| Branch           | From             | Usage        |
-| ---------------- | ---------------- | ------------ |
-| master (latest)  | debian:jessie    | Development  |
-| stable           | debian:jessie    | Production   |
+| Branch           | From             | Usage        | Tag Names       |
+| ---------------- | ---------------- | ------------ | --------------- |
+| stable           | debian:jessie    | Production   | stable          |
+| master (latest)  | debian:jessie    | Development  | latest          |
+
 
 # Dockerfile extends From:
 - https://github.com/tianon/docker-brew-debian
