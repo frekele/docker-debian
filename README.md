@@ -1,4 +1,4 @@
-# Debian Docker Image With s6-overlay - Extends Official Debian
+# Debian Docker Image with s6-overlay - Extends Official Debian
 
 Repository: https://hub.docker.com/r/frekele/debian
 
