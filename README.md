@@ -61,4 +61,4 @@ frekele/docker-debian is **licensed** under the **[MIT License]**. The terms of 
 [GitHub]: https://github.com/frekele/docker-debian
 [DockerHub]: https://hub.docker.com/r/frekele/debian
 [DEBIAN LICENSE]: https://www.debian.org/legal/licenses/
-[MIT LICENSE]: https://github.com/frekele/docker-debian/blob/dev/LICENSE
+[MIT LICENSE]: https://github.com/frekele/docker-debian/blob/master/LICENSE
