@@ -7,9 +7,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/frekele/docker-debian.svg)](https://github.com/frekele/docker-debian/stargazers)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://frekele.github.io/docker-debian/)
 
-Site: https://frekele.github.io/docker-debian/
+[![Debian Image][DebianImage]][DebianWebsite]
 
-Repository: https://hub.docker.com/r/frekele/debian
+
+| [Website]  | [GitHub]  | [DockerHub]  |
+
 
 #### Branches:
 | Branch           | From             | Usage        | Tag Names       |
@@ -27,6 +29,8 @@ Repository: https://hub.docker.com/r/frekele/debian
  - https://github.com/just-containers/s6-overlay
 
 ### License:
+See [DEBIAN LICENSE]
+
 frekele/docker-debian is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
     The MIT License (MIT)
@@ -50,3 +54,11 @@ frekele/docker-debian is **licensed** under the **[MIT License]**. The terms of 
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+
+[DebianImage]: https://raw.githubusercontent.com/frekele/docker-debian/master/debian-logo.png
+[DebianWebsite]: https://www.debian.org/
+[Website]: https://frekele.github.io/docker-debian
+[GitHub]: https://github.com/frekele/docker-debian
+[DockerHub]: https://hub.docker.com/r/frekele/debian
+[DEBIAN LICENSE]: https://www.debian.org/legal/licenses/
+[MIT LICENSE]: https://github.com/frekele/docker-debian/blob/dev/LICENSE
