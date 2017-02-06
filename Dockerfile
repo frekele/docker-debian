@@ -2,7 +2,7 @@ FROM debian:jessie
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV S6_OVERLAY_VERSION=v1.18.1.5
+ENV S6_OVERLAY_VERSION=v1.19.1.1
 
 RUN apt-get update \
     && apt-get install -y \
