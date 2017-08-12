@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
