@@ -2,7 +2,7 @@ FROM debian:stretch
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV S6_OVERLAY_VERSION=v1.19.1.1
+ENV S6_OVERLAY_VERSION=v1.20.0.0
 
 RUN apt-get update \
     && apt-get install -y \
