@@ -16,8 +16,8 @@
 #### Branches:
 | Branch           | From             | Usage        | Tag Names       |
 | ---------------- | ---------------- | ------------ | --------------- |
-| stable           | debian:jessie    | Production   | stable          |
-| master (latest)  | debian:jessie    | Development  | latest          |
+| stable           | debian:stretch   | Production   | stable          |
+| master (latest)  | debian:stretch   | Development  | latest          |
 
 
 # Dockerfile extends From:
