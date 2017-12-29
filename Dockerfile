@@ -14,6 +14,8 @@ RUN apt-get update \
        wget \
        unzip \
        nano \
+       procps \
+       lsof \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
