@@ -13,6 +13,7 @@ RUN apt-get update \
        curl \
        wget \
        unzip \
+       patch \
        nano \
        procps \
        lsof \
