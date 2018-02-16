@@ -4,8 +4,11 @@ MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
 ENV S6_OVERLAY_VERSION=v1.21.2.2
 
-RUN apt-get update \
+RUN DEBIAN_FRONTEND='noninteractive' \
+    apt-get update \
     && apt-get install -y \
+       apt-transport-https \
+       apt-utils \
        gnupg \
        ca-certificates \
        net-tools \
@@ -17,6 +20,10 @@ RUN apt-get update \
        nano \
        procps \
        lsof \
+       dos2unix \
+       tree \
+       fontconfig \
+       libfreetype6 \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
