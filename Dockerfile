@@ -2,7 +2,7 @@ FROM debian:stretch
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
-ENV S6_OVERLAY_VERSION=v1.21.2.2
+ENV S6_OVERLAY_VERSION=v1.21.4.0
 
 RUN DEBIAN_FRONTEND='noninteractive' \
     apt-get update \
