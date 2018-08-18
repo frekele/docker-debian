@@ -1,6 +1,6 @@
 FROM debian:stretch
 
-MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
+MAINTAINER frekele <leandro@frekele.org>
 
 ENV S6_OVERLAY_VERSION=v1.21.4.0
 
