@@ -17,8 +17,8 @@
 
 | Branch           | From             | Usage        | Tag Names       |
 | ---------------- | ---------------- | ------------ | --------------- |
-| stable           | debian:stretch   | Production   | stable          |
-| master (latest)  | debian:stretch   | Development  | latest          |
+| stable           | debian:buster    | Production   | stable          |
+| master (latest)  | debian:buster    | Development  | latest          |
 
 
 # Dockerfile extends From:
